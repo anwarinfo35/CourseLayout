@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CourseLayout</string>
+
+    <string name="action_listview">List View</string>
+    <string name="webView">webView</string>
+    <string name="action_table">TableLayout</string>
+    <string name="action_frame">FrameLayout</string>
+    <string name="action_shap">Shape</string>
+</resources>
+

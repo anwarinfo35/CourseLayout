@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.javatpoint.com.kotlinoptionsmenu.MainActivity">
+    <item
+        android:id="@+id/item_listview"
+        android:orderInCategory="100"
+        android:title="@string/action_listview"/>
+    <item
+        android:id="@+id/item_webView"
+        android:title="@string/webView"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item_tblayout"
+        android:title="@string/action_table"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/item_framelayout"
+        android:title="@string/action_frame"
+        app:showAsAction="never"/>
+
+
+    <item
+        android:id="@+id/item_shap"
+        android:title="@string/action_shap"
+        app:showAsAction="never"/>
+
+
+</menu>
